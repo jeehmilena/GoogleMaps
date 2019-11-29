@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoogleMapsProject</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mapa_normal">Mapa normal</string>
+    <string name="mapa_hibrido">Mapa hibrido</string>
+    <string name="mapa_satelite">Mapa satelite</string>
+    <string name="mapa_do_terreno">Mapa do terreno</string>
+    <string name="lat_long_snippet">Lat: %1$.5f, Long: %2$.5f</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="poi">poi</string>
+</resources>
